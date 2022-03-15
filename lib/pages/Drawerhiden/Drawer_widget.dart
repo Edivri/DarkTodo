@@ -100,7 +100,7 @@ class _DrawerWidgetState extends State<DrawerWidget>
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "Joy",
+            "Ben",
             style: GoogleFonts.lato(
                 fontSize: 40,
                 letterSpacing: 2,
@@ -108,7 +108,7 @@ class _DrawerWidgetState extends State<DrawerWidget>
                 fontWeight: FontWeight.bold),
           ),
           Text(
-            "Mitchell",
+            "Edivri",
             style: GoogleFonts.lato(
                 fontSize: 40,
                 letterSpacing: 2,
